@@ -95,7 +95,7 @@ namespace OpenGameListWebApp.Controllers
 
         {
 
-            List<ItemViewModel> lst = new List<ItemViewModel>();
+            List<ItemViewModel> lst = new List<ItemViewModel>(); ////dfgnbvnghnghf
 
             DateTime date = new DateTime(2015, 12, 31).AddDays(-num);
 
